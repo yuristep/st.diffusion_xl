@@ -1,0 +1,5 @@
+#query:
+Easter bunny with glasses reads a book in the library, realistic photo
+
+#negativePrompt:
+ artifacts, distorted features, distorted proportions
